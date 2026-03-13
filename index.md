@@ -7,7 +7,7 @@
 | `10`         | cloudreve         |
 | `20`         | vocechat          |
 | `30`         | photoprism        |
-| `40`         | plex              |
+| `40`         | openclaw          |
 | `50`         | jellyfin          |
 
 [京ICP备16018312号-1](https://beian.miit.gov.cn/ "ICP")
